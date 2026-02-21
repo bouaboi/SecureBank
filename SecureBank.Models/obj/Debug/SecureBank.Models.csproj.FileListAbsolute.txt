@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\SecureBank\SecureBank.Models\bin\Debug\MBMS.Models.dll
+C:\Users\Administrator\Desktop\SecureBank\SecureBank.Models\bin\Debug\MBMS.Models.pdb
+C:\Users\Administrator\Desktop\SecureBank\SecureBank.Models\obj\Debug\SecureBank.Models.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\SecureBank\SecureBank.Models\obj\Debug\SecureBank.Models.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SecureBank\SecureBank.Models\obj\Debug\MBMS.Models.dll
+C:\Users\Administrator\Desktop\SecureBank\SecureBank.Models\obj\Debug\MBMS.Models.pdb
