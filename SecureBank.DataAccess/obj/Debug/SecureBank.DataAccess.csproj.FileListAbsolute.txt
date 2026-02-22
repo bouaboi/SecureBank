@@ -1,9 +1,0 @@
-C:\Users\Administrator\Desktop\SecureBank\SecureBank.DataAccess\bin\Debug\MBMS_DataAccess.dll
-C:\Users\Administrator\Desktop\SecureBank\SecureBank.DataAccess\bin\Debug\MBMS_DataAccess.pdb
-C:\Users\Administrator\Desktop\SecureBank\SecureBank.DataAccess\bin\Debug\MBMS.Models.dll
-C:\Users\Administrator\Desktop\SecureBank\SecureBank.DataAccess\bin\Debug\MBMS.Models.pdb
-C:\Users\Administrator\Desktop\SecureBank\SecureBank.DataAccess\obj\Debug\SecureBank.DataAccess.csproj.AssemblyReference.cache
-C:\Users\Administrator\Desktop\SecureBank\SecureBank.DataAccess\obj\Debug\SecureBank.DataAccess.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Desktop\SecureBank\SecureBank.DataAccess\obj\Debug\SecureBa.79CF390B.Up2Date
-C:\Users\Administrator\Desktop\SecureBank\SecureBank.DataAccess\obj\Debug\MBMS_DataAccess.dll
-C:\Users\Administrator\Desktop\SecureBank\SecureBank.DataAccess\obj\Debug\MBMS_DataAccess.pdb
