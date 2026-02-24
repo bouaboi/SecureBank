@@ -94,3 +94,4 @@ Or download as ZIP from GitHub.
 ### Default Client Login
 - Username: `Client1`
 - Password: `1234`
+- PINCODE: `1234`
